@@ -16,6 +16,7 @@ public class MiPanel extends JFrame{
     private JLabel etq1224i14;
     private TextField t;
     private JButton b;
+    private JLabel j;
 
     private DefaultListModel datos;
     private JList lista;
