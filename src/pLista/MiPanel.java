@@ -13,7 +13,7 @@ public class MiPanel extends JFrame{
 
     }
 
-    private JLabel etq;
+    private JLabel etq12;
     private TextField t;
     private JButton b;
 
